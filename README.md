@@ -15,7 +15,7 @@ Flutter - [Guia de Instalação](https://flutter.dev/docs/get-started/install)
 Clone este repositório na sua máquina local utilizando o comando:
 
 ```bash
-git clone https://github.com/GustaDuarte/GOT-API-FIREBASE.git
+git clone https://github.com/GustaDuarte/Techtaste.git
 ```
 
 ### 4. Instale as dependências:
