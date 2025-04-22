@@ -1,0 +1,2 @@
+C:/Users/gusta/Downloads/techtaste/android/app/.cxx/Debug/2xh3v6v2/x86/CMakeFiles/edit_cache.dir
+C:/Users/gusta/Downloads/techtaste/android/app/.cxx/Debug/2xh3v6v2/x86/CMakeFiles/rebuild_cache.dir
