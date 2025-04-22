@@ -45,5 +45,5 @@ Design responsivo com foco em experiência do usuário.
 Estrutura modular e pronta para expansão futura (como filtros, favoritos e carrinho).
 
 ### Sobre
-Este projeto é fruto da Imersão Mobile da Alura, uma experiência prática e entusiastas de desenvolvimento mobile com Flutter.
+Este projeto é fruto da Imersão Mobile da Alura, uma experiência prática de desenvolvimento mobile com Flutter.
 Para saber mais sobre a imersão: https://www.alura.com.br/imersao-mobile
